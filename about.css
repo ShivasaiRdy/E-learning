@@ -1,0 +1,16 @@
+img{
+    display: block;
+    margin: auto;
+    border: solid black;
+}
+/* footer{
+    background-color: rgb(45, 151, 107);
+  } */
+.image-size{
+    height: 70px;
+    width: 70px;
+    margin: 10px 10px 10px 50px;
+}
+a{
+  margin-left: 25px;
+}

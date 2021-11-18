@@ -1,0 +1,30 @@
+img{
+    display: block;
+    margin: auto;
+    border: solid black;
+}
+h1{
+    font-size: 50px;
+    margin-left: 450px;
+    color: salmon;
+}
+*{
+    /* background-color: skyblue; */
+}
+h2{
+    margin: 10px 450px 20px ;
+}
+p{
+    margin: 10px 5px 10px 25px;
+}
+a{
+    margin-left: 25px;
+}
+/* footer{
+    background-color: rgb(45, 151, 107);
+  } */
+.image-size{
+    height: 70px;
+    width: 70px;
+    margin: 10px 10px 10px 50px;
+  }

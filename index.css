@@ -1,0 +1,18 @@
+img
+{
+  display: block;
+   margin: auto; 
+   border: rgb(19, 18, 18) solid;
+}
+/* footer{
+  background-color: dark;
+} */
+.image-size{
+  height: 70px;
+  width: 70px;
+  margin: 10px 10px 10px 50px;
+}
+a{
+  margin-left: 25px;
+}
+

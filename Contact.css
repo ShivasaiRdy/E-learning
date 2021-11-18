@@ -1,0 +1,10 @@
+.image-size
+{
+    height: 70px;
+    width: 70px;
+    margin: 10px 10px 10px 50px;
+    border: solid black;
+}
+a{
+  margin-left: 25px;
+}
